@@ -12,4 +12,4 @@ Run as `node app.js`
 
 * There is a lot of boiler plate code in the controller and the model. There should be a way to have more centralized error handling.
 
-* Access app as http://localhost:30080/todo
+* Access app as http://localhost:30080/todo/index.html
